@@ -1,2 +1,5 @@
 - install julia and check if you can use it with its interactive prompt
+- install "Open in Colab" extension for your browser (there is one for both Chrome and Firefox, dunno if there are other)
+- if you want to create a new notebook: jupyter notebook <notebook>.ipynb
+
 
