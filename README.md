@@ -1,6 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/knigawkl/gradient-optimisation/blob/main/GradientOptimisationKnigawkaKopyt.ipynb)
-
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/knigawkl/gradient-optimisation/blob/main/julia.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/knigawkl/gradient-optimisation/blob/main/Julia_on_colab.ipynb)
 
 # gradient-optimisation
 Project for "Algorithms in data science" course
