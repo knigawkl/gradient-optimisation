@@ -1,0 +1,2 @@
+- install julia and check if you can use it with its interactive prompt
+
